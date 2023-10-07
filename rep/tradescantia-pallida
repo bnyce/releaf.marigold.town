@@ -1,0 +1,145 @@
+<html><head>
+<meta charset="UTF-8">
+
+<title>Tradescantia pallida | ReLeaf</title>
+<link rel="stylesheet" media="all" href="/themes/custom/heh/css/styles.css">
+
+  </head>
+<body text="#330000" bgcolor="#CCCC99" link="#990000" vlink="#9966FF" alink="#666633" background="/sites/default/files/img/paper1.gif">
+<h1><img src="/sites/default/files/img/BLUEMARB.GIF" width="100%" height="14" align="BOTTOM"></h1>
+
+
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+
+  <header role="banner">
+      <div>
+    <div id="block-heh-page-title">
+  
+    
+      
+
+  <h1>
+            <div>Tradescantia pallida</div>
+      </h1>
+
+<h4><img src="/sites/default/files/img/BLUEMARB.GIF" width="100%" height="14" align="BOTTOM"></h4>
+
+  </div>
+
+  </div>
+
+  </header>
+
+  
+  
+
+  
+
+  
+
+  
+
+  <main role="main">
+    <a id="main-content" tabindex="-1"></a>
+    <div class="layout-content">
+        <div>
+    <div data-drupal-messages-fallback class="hidden"></div><div id="block-heh-content">
+  
+    
+      <article>
+  
+  <div class="product--variation-field--variation_list_price__6"></div>
+
+  <div class="product--variation-field--variation_price__6">
+    <div>Price</div>
+              <div>$1.00</div>
+          </div>
+<div class="product--variation-field--variation__layout_builder__6"></div>
+
+  <div>
+    <div>Variations</div>
+          <div>
+              <div><div id="commerce-product-add-to-cart-form"><form class="commerce-order-item-add-to-cart-form-commerce-product-6 commerce-order-item-add-to-cart-form" data-drupal-selector="commerce-order-item-add-to-cart-form-commerce-product-6" action="/rep/tradescantia-pallida" method="post" id="commerce-order-item-add-to-cart-form-commerce-product-6" accept-charset="UTF-8">
+  <input autocomplete="off" data-drupal-selector="form-pxwabqexftowdtamvdn96fqjssgjfn2syo-gjrfm9qg" type="hidden" name="form_build_id" value="form-pxWaBqexFtOWDTamvDn96FqJSSgJfN2sYo-Gjrfm9Qg" />
+<input data-drupal-selector="edit-commerce-order-item-add-to-cart-form-commerce-product-6" type="hidden" name="form_id" value="commerce_order_item_add_to_cart_form_commerce_product_6" />
+  <div data-drupal-selector="edit-field-layout" class="layout layout--onecol">
+    <div  data-drupal-selector="edit-content" class="layout__region layout__region--content">
+      <div class="field--type-entity-reference field--name-purchased-entity field--widget-commerce-product-variation-attributes js-form-wrapper form-wrapper" data-drupal-selector="edit-purchased-entity-wrapper" id="edit-purchased-entity-wrapper">      <div class="attribute-widgets js-form-wrapper form-wrapper" data-drupal-selector="edit-purchased-entity-0-attributes" id="edit-purchased-entity-0-attributes"><fieldset data-drupal-selector="edit-purchased-entity-0-attributes-attribute-species" id="edit-purchased-entity-0-attributes-attribute-species--wrapper" class="fieldgroup form-composite required js-form-item form-item js-form-wrapper form-wrapper" required="required" aria-required="true">
+      <legend>
+    <span class="fieldset-legend js-form-required form-required">Species</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-purchased-entity-0-attributes-attribute-species"><div class="js-form-item form-item js-form-type-radio form-item-purchased-entity-0-attributes-attribute-species js-form-item-purchased-entity-0-attributes-attribute-species">
+        <input data-drupal-selector="edit-purchased-entity-0-attributes-attribute-species-9" data-disable-refocus="true" type="radio" id="edit-purchased-entity-0-attributes-attribute-species-9" name="purchased_entity[0][attributes][attribute_species]" value="9" checked="checked" class="form-radio" />
+
+        <label for="edit-purchased-entity-0-attributes-attribute-species-9" class="option">Purple Heart</label>
+      </div>
+<div class="js-form-item form-item js-form-type-radio form-item-purchased-entity-0-attributes-attribute-species js-form-item-purchased-entity-0-attributes-attribute-species">
+        <input data-drupal-selector="edit-purchased-entity-0-attributes-attribute-species-10" data-disable-refocus="true" type="radio" id="edit-purchased-entity-0-attributes-attribute-species-10" name="purchased_entity[0][attributes][attribute_species]" value="10" class="form-radio" />
+
+        <label for="edit-purchased-entity-0-attributes-attribute-species-10" class="option">Purple Heart x10</label>
+      </div>
+</div>
+
+          </div>
+</fieldset>
+<fieldset data-drupal-selector="edit-purchased-entity-0-attributes-attribute-wavelength" class="product--rendered-attribute fieldgroup form-composite required js-form-item form-item js-form-wrapper form-wrapper" id="edit-purchased-entity-0-attributes-attribute-wavelength--wrapper" required="required" aria-required="true">
+      <legend>
+    <span class="fieldset-legend js-form-required form-required">Wavelength</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-purchased-entity-0-attributes-attribute-wavelength"><div class="js-form-item form-item js-form-type-radio form-item-purchased-entity-0-attributes-attribute-wavelength js-form-item-purchased-entity-0-attributes-attribute-wavelength">
+        <input data-drupal-selector="edit-purchased-entity-0-attributes-attribute-wavelength-11" class="product--rendered-attribute__selected form-radio" data-disable-refocus="true" type="radio" id="edit-purchased-entity-0-attributes-attribute-wavelength-11" name="purchased_entity[0][attributes][attribute_wavelength]" value="11" checked="checked" />
+
+        <label for="edit-purchased-entity-0-attributes-attribute-wavelength-11" class="option"><div>
+            <div>Monthly</div>
+      </div>
+</label>
+      </div>
+</div>
+
+          </div>
+</fieldset>
+</div>
+
+  </div>
+
+    </div>
+  </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input class="button--add-to-cart button button--primary js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Add to cart" />
+</div>
+
+</form>
+</div></div>
+              </div>
+      </div>
+
+            <div><p>Help Tradescantia pallida put down roots in new places by pitching in a few bucks! When you donate to ReLeaf, you're not just making this lovely species' day; you're also fueling the whole ReLeaf Cooperative to bloom and grow. And the best part? We gift these leafy wonders to local spots at no charge, all thanks to kind souls like you!</p>
+</div>
+      
+  <div>
+    <div>W.A.S.T.E.</div>
+          <div>
+              <div><a href="/tradescantia-pallida" hreflang="en">Tradescantia pallida</a></div>
+              </div>
+      </div>
+</article>
+
+  </div>
+
+  </div>
+
+    </div>
+    
+    
+  </main>
+
+  
+</div>
+  </div>
+
+    
+  </body>
+</html>

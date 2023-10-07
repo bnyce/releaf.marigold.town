@@ -1,0 +1,362 @@
+<html><head>
+<meta charset="UTF-8">
+
+<title>W.A.S.T.E. | ReLeaf</title>
+<link rel="stylesheet" media="all" href="/themes/custom/heh/css/styles.css">
+
+  </head>
+<body text="#330000" bgcolor="#CCCC99" link="#990000" vlink="#9966FF" alink="#666633" background="/sites/default/files/img/paper1.gif">
+<h1><img src="/sites/default/files/img/BLUEMARB.GIF" width="100%" height="14" align="BOTTOM"></h1>
+
+
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+
+  <header role="banner">
+      <div>
+    <div id="block-heh-page-title">
+  
+    
+      
+
+  <h1>W.A.S.T.E.</h1>
+
+<h4><img src="/sites/default/files/img/BLUEMARB.GIF" width="100%" height="14" align="BOTTOM"></h4>
+
+  </div>
+
+  </div>
+
+  </header>
+
+  
+  
+
+  
+
+  
+
+  
+
+  <main role="main">
+    <a id="main-content" tabindex="-1"></a>
+    <div class="layout-content">
+        <div>
+    <div data-drupal-messages-fallback class="hidden"></div><div id="block-heh-content">
+  
+    
+      <form class="taxonomy-overview-terms" data-drupal-selector="taxonomy-overview-terms" action="/waste_words?page=1" method="post" id="taxonomy-overview-terms" accept-charset="UTF-8">
+  <div data-drupal-selector="edit-help" id="edit-help" class="js-form-wrapper form-wrapper"><em class="placeholder">W.A.S.T.E.</em> contains the following terms.</div>
+<table id="taxonomy" data-drupal-selector="edit-terms" class="responsive-enabled" data-striping="1">
+  
+  
+      <thead>
+      <tr>
+                  <th>Name</th>
+                  <th>Operations</th>
+                  <th>Weight</th>
+              </tr>
+    </thead>
+  
+      <tbody>
+              <tr data-drupal-selector="edit-terms-tid10">
+                      <td><a href="/organic-media.html" data-drupal-selector="edit-terms-tid10-term" id="edit-terms-tid10-term" hreflang="en">Organic Media</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid440">
+                      <td><a href="/pecan.html" data-drupal-selector="edit-terms-tid440-term" id="edit-terms-tid440-term" hreflang="en">Pecan</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid1740">
+                      <td><a href="/permacomputing.html" data-drupal-selector="edit-terms-tid1740-term" id="edit-terms-tid1740-term" hreflang="en">Permacomputing</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid1020">
+                      <td><a href="/plant-identification.html" data-drupal-selector="edit-terms-tid1020-term" id="edit-terms-tid1020-term" hreflang="en">Plant Identification</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid190">
+                      <td><a href="/planter-module.html" data-drupal-selector="edit-terms-tid190-term" id="edit-terms-tid190-term" hreflang="en">Planter Module</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid540">
+                      <td><a href="/prison-abolition.html" data-drupal-selector="edit-terms-tid540-term" id="edit-terms-tid540-term" hreflang="en">Prison Abolition</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid130">
+                      <td><a href="/project-prototyping.html" data-drupal-selector="edit-terms-tid130-term" id="edit-terms-tid130-term" hreflang="en">Project Prototyping</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid350">
+                      <td><a href="/public-art.html" data-drupal-selector="edit-terms-tid350-term" id="edit-terms-tid350-term" hreflang="en">Public Art</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid1330">
+                      <td><a href="/rainforest.html" data-drupal-selector="edit-terms-tid1330-term" id="edit-terms-tid1330-term" hreflang="en">Rainforest</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid170">
+                      <td><a href="/releaf.html" data-drupal-selector="edit-terms-tid170-term" id="edit-terms-tid170-term" hreflang="en">ReLeaf</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid1140">
+                      <td><a href="/renewable-energy.html" data-drupal-selector="edit-terms-tid1140-term" id="edit-terms-tid1140-term" hreflang="en">Renewable Energy</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid310">
+                      <td><a href="/residential-conversion.html" data-drupal-selector="edit-terms-tid310-term" id="edit-terms-tid310-term" hreflang="en">Residential Conversion</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid630">
+                      <td><a href="/richard-linklater.html" data-drupal-selector="edit-terms-tid630-term" id="edit-terms-tid630-term" hreflang="en">Richard Linklater</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid1110">
+                      <td><a href="/riley.html" data-drupal-selector="edit-terms-tid1110-term" id="edit-terms-tid1110-term" hreflang="en">Riley</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid1760">
+                      <td><a href="/mexican-ruellia" data-drupal-selector="edit-terms-tid1760-term" id="edit-terms-tid1760-term" hreflang="en">Ruellia simplex</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid1150">
+                      <td><a href="/sanchez-elementary.html" data-drupal-selector="edit-terms-tid1150-term" id="edit-terms-tid1150-term" hreflang="en">Sanchez Elementary</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid1810">
+                      <td><a href="/sara-stevenson.html" data-drupal-selector="edit-terms-tid1810-term" id="edit-terms-tid1810-term" hreflang="en">Sara Stevenson</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid80">
+                      <td><a href="/scalable-sustainability.html" data-drupal-selector="edit-terms-tid80-term" id="edit-terms-tid80-term" hreflang="en">Scalable Sustainability</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid420">
+                      <td><a href="/secret-garden.html" data-drupal-selector="edit-terms-tid420-term" id="edit-terms-tid420-term" hreflang="en">Secret Garden</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid1080">
+                      <td><a href="/shoal-creek.html" data-drupal-selector="edit-terms-tid1080-term" id="edit-terms-tid1080-term" hreflang="en">Shoal Creek</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid1790">
+                      <td><a href="/silver-ponysfoot" data-drupal-selector="edit-terms-tid1790-term" id="edit-terms-tid1790-term" hreflang="en">Silver ponysfoot</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid1770">
+                      <td><a href="/skeletron" data-drupal-selector="edit-terms-tid1770-term" id="edit-terms-tid1770-term" hreflang="en">Skeletron</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid250">
+                      <td><a href="/solarpunk-fiction" data-drupal-selector="edit-terms-tid250-term" id="edit-terms-tid250-term" hreflang="en">SolarPunk Fiction</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid860">
+                      <td><a href="/spatial-awareness.html" data-drupal-selector="edit-terms-tid860-term" id="edit-terms-tid860-term" hreflang="en">Spatial Awareness</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid1500">
+                      <td><a href="/square.html" data-drupal-selector="edit-terms-tid1500-term" id="edit-terms-tid1500-term" hreflang="en">Square</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid240">
+                      <td><a href="/storytelling.html" data-drupal-selector="edit-terms-tid240-term" id="edit-terms-tid240-term" hreflang="en">Storytelling</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid510">
+                      <td><a href="/strawbactus.html" data-drupal-selector="edit-terms-tid510-term" id="edit-terms-tid510-term" hreflang="en">Strawbactus</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid1310">
+                      <td><a href="/sustainable-business.html" data-drupal-selector="edit-terms-tid1310-term" id="edit-terms-tid1310-term" hreflang="en">Sustainable Business</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid800">
+                      <td><a href="/synchronicity.html" data-drupal-selector="edit-terms-tid800-term" id="edit-terms-tid800-term" hreflang="en">Synchronicity</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid90">
+                      <td><a href="/system-replication.html" data-drupal-selector="edit-terms-tid90-term" id="edit-terms-tid90-term" hreflang="en">System Replication</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid1300">
+                      <td><a href="/systemic-corruption.html" data-drupal-selector="edit-terms-tid1300-term" id="edit-terms-tid1300-term" hreflang="en">Systemic Corruption</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid900">
+                      <td><a href="/attorney-rocks.html" data-drupal-selector="edit-terms-tid900-term" id="edit-terms-tid900-term" hreflang="en">The Attorney That Rocks</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid970">
+                      <td><a href="/driskill.html" data-drupal-selector="edit-terms-tid970-term" id="edit-terms-tid970-term" hreflang="en">The Driskill</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid480">
+                      <td><a href="/hypercube.html" data-drupal-selector="edit-terms-tid480-term" id="edit-terms-tid480-term" hreflang="en">The Hypercube</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid920">
+                      <td><a href="/hyperseed.html" data-drupal-selector="edit-terms-tid920-term" id="edit-terms-tid920-term" hreflang="en">The HyperSeed</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid1100">
+                      <td><a href="/independent.html" data-drupal-selector="edit-terms-tid1100-term" id="edit-terms-tid1100-term" hreflang="en">The Independent</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid610">
+                      <td><a href="/institute.html" data-drupal-selector="edit-terms-tid610-term" id="edit-terms-tid610-term" hreflang="en">The Institute</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid910">
+                      <td><a href="/magician.html" data-drupal-selector="edit-terms-tid910-term" id="edit-terms-tid910-term" hreflang="en">The Magician</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid670">
+                      <td><a href="/waste-land.html" data-drupal-selector="edit-terms-tid670-term" id="edit-terms-tid670-term" hreflang="en">The Waste Land</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid1930">
+                      <td><a href="/tradescantia-pallida" data-drupal-selector="edit-terms-tid1930-term" id="edit-terms-tid1930-term" hreflang="en">Tradescantia pallida</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid500">
+                      <td><a href="/trails.html" data-drupal-selector="edit-terms-tid500-term" id="edit-terms-tid500-term" hreflang="en">Trails</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid1420">
+                      <td><a href="/tranquility.html" data-drupal-selector="edit-terms-tid1420-term" id="edit-terms-tid1420-term" hreflang="en">Tranquility</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid1250">
+                      <td><a href="/trash-magic.html" data-drupal-selector="edit-terms-tid1250-term" id="edit-terms-tid1250-term" hreflang="en">Trash Magic</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid1870">
+                      <td><a href="/trash-magic-server.html" data-drupal-selector="edit-terms-tid1870-term" id="edit-terms-tid1870-term" hreflang="en">Trash Magic Server</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid20">
+                      <td><a href="/trash-repurposing.html" data-drupal-selector="edit-terms-tid20-term" id="edit-terms-tid20-term" hreflang="en">Trash Repurposing</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid930">
+                      <td><a href="/trash-transmutation-tower.html" data-drupal-selector="edit-terms-tid930-term" id="edit-terms-tid930-term" hreflang="en">Trash Transmutation Tower</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid560">
+                      <td><a href="/treaty-oak.html" data-drupal-selector="edit-terms-tid560-term" id="edit-terms-tid560-term" hreflang="en">Treaty Oak</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid1400">
+                      <td><a href="/upcycling.html" data-drupal-selector="edit-terms-tid1400-term" id="edit-terms-tid1400-term" hreflang="en">Upcycling</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid1440">
+                      <td><a href="/urban-delivery.html" data-drupal-selector="edit-terms-tid1440-term" id="edit-terms-tid1440-term" hreflang="en">Urban Delivery</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid60">
+                      <td><a href="/urban-greening.html" data-drupal-selector="edit-terms-tid60-term" id="edit-terms-tid60-term" hreflang="en">Urban Greening</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid1370">
+                      <td><a href="/veganism.html" data-drupal-selector="edit-terms-tid1370-term" id="edit-terms-tid1370-term" hreflang="en">Veganism</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid740">
+                      <td><a href="/vernor-vinge.html" data-drupal-selector="edit-terms-tid740-term" id="edit-terms-tid740-term" hreflang="en">Vernor Vinge</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid180">
+                      <td><a href="/vertical-garden.html" data-drupal-selector="edit-terms-tid180-term" id="edit-terms-tid180-term" hreflang="en">Vertical Garden</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid850">
+                      <td><a href="/vic-tandy.html" data-drupal-selector="edit-terms-tid850-term" id="edit-terms-tid850-term" hreflang="en">Vic Tandy</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid520">
+                      <td><a href="/waste.html" data-drupal-selector="edit-terms-tid520-term" id="edit-terms-tid520-term" hreflang="en">W.A.S.T.E.</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid1880">
+                      <td><a href="/waller-creek.html" data-drupal-selector="edit-terms-tid1880-term" id="edit-terms-tid1880-term" hreflang="en">Waller Creek</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid1900">
+                      <td><a href="/walnut-creek.html" data-drupal-selector="edit-terms-tid1900-term" id="edit-terms-tid1900-term" hreflang="en">Walnut Creek</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid50">
+                      <td><a href="/waste-integration.html" data-drupal-selector="edit-terms-tid50-term" id="edit-terms-tid50-term" hreflang="en">Waste Integration</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid1650">
+                      <td><a href="/who-owns-future.html" data-drupal-selector="edit-terms-tid1650-term" id="edit-terms-tid1650-term" hreflang="en">Who Owns the Future?</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid430">
+                      <td><a href="/youth-culture.html" data-drupal-selector="edit-terms-tid430-term" id="edit-terms-tid430-term" hreflang="en">Youth Culture</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid720">
+                      <td><a href="/zero-waste-initiative.html" data-drupal-selector="edit-terms-tid720-term" id="edit-terms-tid720-term" hreflang="en">Zero Waste Initiative</a></td>
+                      <td></td>
+                  </tr>
+              <tr class="taxonomy-term-divider-top" data-drupal-selector="edit-terms-tid1010">
+                      <td><a href="/zilker-park.html" data-drupal-selector="edit-terms-tid1010-term" id="edit-terms-tid1010-term" hreflang="en">Zilker Park</a></td>
+                      <td></td>
+                  </tr>
+          </tbody>
+    </table>
+  <nav class="pager" role="navigation" aria-labelledby="pagination-heading">
+    <h4 id="pagination-heading" class="visually-hidden">Pagination</h4>
+    <ul class="pager__items js-pager__items">
+                    <li class="pager__item pager__item--first">
+          <a href="?page=0" title="Go to first page">
+            <span class="visually-hidden">First page</span>
+            <span aria-hidden="true">« First</span>
+          </a>
+        </li>
+                          <li class="pager__item pager__item--previous">
+          <a href="?page=0" title="Go to previous page" rel="prev">
+            <span class="visually-hidden">Previous page</span>
+            <span aria-hidden="true">‹ Previous</span>
+          </a>
+        </li>
+                                      <li class="pager__item">
+                                          <a href="?page=0" title="Go to page 1">
+            <span class="visually-hidden">
+              Page
+            </span>1</a>
+        </li>
+              <li class="pager__item is-active">
+                                          <a href="?page=1" title="Current page" aria-current="Current page">
+            <span class="visually-hidden">
+              Current page
+            </span>2</a>
+        </li>
+                                              </ul>
+  </nav>
+<input autocomplete="off" data-drupal-selector="form-28quzlmpa05vvddskgbzirhtgalelk9ugqjfeaediro" type="hidden" name="form_build_id" value="form-28quZlMpA05VvDdSkGbZiRHtgAlELK9UgQJfEAeDiRo" />
+<input data-drupal-selector="edit-taxonomy-overview-terms" type="hidden" name="form_id" value="taxonomy_overview_terms" />
+
+</form>
+
+  </div>
+
+  </div>
+
+    </div>
+    
+    
+  </main>
+
+  
+</div>
+  </div>
+
+    
+  </body>
+</html>
