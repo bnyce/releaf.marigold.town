@@ -46,7 +46,7 @@
     <div data-drupal-messages-fallback class="hidden"></div><div id="block-heh-content">
   
     
-      <form class="taxonomy-overview-terms" data-drupal-selector="taxonomy-overview-terms" action="/waste_words" method="post" id="taxonomy-overview-terms" accept-charset="UTF-8">
+      <form class="taxonomy-overview-terms" data-drupal-selector="taxonomy-overview-terms" action="/admin/structure/taxonomy/manage/w_a_s_t_e_words/overview" method="post" id="taxonomy-overview-terms" accept-charset="UTF-8">
   <div data-drupal-selector="edit-help" id="edit-help" class="js-form-wrapper form-wrapper"><em class="placeholder">W.A.S.T.E.</em> contains the following terms.</div>
 <table id="taxonomy" data-drupal-selector="edit-terms" class="responsive-enabled" data-striping="1">
   
@@ -122,6 +122,10 @@
                   </tr>
               <tr data-drupal-selector="edit-terms-tid1800">
                       <td><a href="/chestnut-book-nook.html" data-drupal-selector="edit-terms-tid1800-term" id="edit-terms-tid1800-term" hreflang="en">Chestnut Book Nook</a></td>
+                      <td></td>
+                  </tr>
+              <tr data-drupal-selector="edit-terms-tid2180">
+                      <td><a href="/chinati-foundation.html" data-drupal-selector="edit-terms-tid2180-term" id="edit-terms-tid2180-term" hreflang="en">Chinati Foundation</a></td>
                       <td></td>
                   </tr>
               <tr data-drupal-selector="edit-terms-tid530">
@@ -412,6 +416,10 @@
                       <td><a href="/main-building.html" data-drupal-selector="edit-terms-tid1040-term" id="edit-terms-tid1040-term" hreflang="en">Main Building</a></td>
                       <td></td>
                   </tr>
+              <tr data-drupal-selector="edit-terms-tid2190">
+                      <td><a href="/marfa.html" data-drupal-selector="edit-terms-tid2190-term" id="edit-terms-tid2190-term" hreflang="en">Marfa</a></td>
+                      <td></td>
+                  </tr>
               <tr data-drupal-selector="edit-terms-tid730">
                       <td><a href="/margaret-atwood.html" data-drupal-selector="edit-terms-tid730-term" id="edit-terms-tid730-term" hreflang="en">Margaret Atwood</a></td>
                       <td></td>
@@ -448,20 +456,12 @@
                       <td><a href="/natural-materials.html" data-drupal-selector="edit-terms-tid370-term" id="edit-terms-tid370-term" hreflang="en">Natural Materials</a></td>
                       <td></td>
                   </tr>
-              <tr data-drupal-selector="edit-terms-tid320">
+              <tr class="taxonomy-term-divider-top" data-drupal-selector="edit-terms-tid320">
                       <td><a href="/natural-ventilation.html" data-drupal-selector="edit-terms-tid320-term" id="edit-terms-tid320-term" hreflang="en">Natural Ventilation</a></td>
                       <td></td>
                   </tr>
-              <tr data-drupal-selector="edit-terms-tid580">
+              <tr class="taxonomy-term-preview taxonomy-term-divider-bottom" data-drupal-selector="edit-terms-tid580">
                       <td><a href="/new-roots-collective.html" data-drupal-selector="edit-terms-tid580-term" id="edit-terms-tid580-term" hreflang="en">New Roots Collective</a></td>
-                      <td></td>
-                  </tr>
-              <tr class="taxonomy-term-divider-top" data-drupal-selector="edit-terms-tid770">
-                      <td><a href="/oblique-strategies.html" data-drupal-selector="edit-terms-tid770-term" id="edit-terms-tid770-term" hreflang="en">Oblique Strategies</a></td>
-                      <td></td>
-                  </tr>
-              <tr class="taxonomy-term-preview taxonomy-term-divider-bottom" data-drupal-selector="edit-terms-tid10">
-                      <td><a href="/organic-media.html" data-drupal-selector="edit-terms-tid10-term" id="edit-terms-tid10-term" hreflang="en">Organic Media</a></td>
                       <td></td>
                   </tr>
           </tbody>
@@ -495,7 +495,7 @@
         </li>
           </ul>
   </nav>
-<input autocomplete="off" data-drupal-selector="form-83yclnukhmao-njw3nwvmu4n2i-oj-uumnydquzp-xe" type="hidden" name="form_build_id" value="form-83ycLNukHmao_NjW3NWVMu4n2I-oJ_UUMNyDquzp_XE" />
+<input autocomplete="off" data-drupal-selector="form-ppctlxzfuehktlsupxvmmya8ba0xh98exu7jeipferm" type="hidden" name="form_build_id" value="form-ppCtLxZFUeHktLSupXvmMya8BA0XH98EXu7jEiPfERM" />
 <input data-drupal-selector="edit-taxonomy-overview-terms" type="hidden" name="form_id" value="taxonomy_overview_terms" />
 
 </form>
