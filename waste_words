@@ -1,28 +1,60 @@
-<html><head>
-<meta charset="UTF-8">
 
-<title>W.A.S.T.E. | ReLeaf</title>
-<link rel="stylesheet" media="all" href="/themes/custom/heh/css/styles.css">
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org); Commerce 2" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+    <title>W.A.S.T.E. | ReLeaf</title>
+    <script src="/qtvr.quicktime.edenapple.com/sw/p5.min.js"></script>
+
+    <link rel="stylesheet" media="all" href="/core/modules/system/css/components/ajax-progress.module.css?s2fyl9" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?s2fyl9" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/autocomplete-loading.module.css?s2fyl9" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?s2fyl9" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?s2fyl9" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?s2fyl9" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?s2fyl9" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?s2fyl9" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?s2fyl9" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?s2fyl9" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?s2fyl9" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?s2fyl9" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/progress.module.css?s2fyl9" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?s2fyl9" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?s2fyl9" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/sticky-header.module.css?s2fyl9" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?s2fyl9" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?s2fyl9" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?s2fyl9" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tabledrag.module.css?s2fyl9" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?s2fyl9" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tree-child.module.css?s2fyl9" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/system.admin.css?s2fyl9" />
+<link rel="stylesheet" media="all" href="/themes/custom/stark_child/css/styles.css?s2fyl9" />
+<link rel="stylesheet" media="all" href="/sites/default/files/asset_injector/css/sep10-e425fa836ce570a63fd03387a4e65f54.css?s2fyl9" />
+
+    
   </head>
-<body text="#330000" bgcolor="#CCCC99" link="#990000" vlink="#9966FF" alink="#666633" background="/sites/default/files/img/paper1.gif">
-<h1><img src="/sites/default/files/img/BLUEMARB.GIF" width="100%" height="14" align="BOTTOM"></h1>
-
-
+  <body  background="/sites/default/files/img/paper1.gif">
+        <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
     
       <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
     <div class="layout-container">
 
   <header role="banner">
       <div>
-    <div id="block-heh-page-title">
+    <div id="block-stark-child-page-title">
   
     
       
-
   <h1>W.A.S.T.E.</h1>
 
-<h4><img src="/sites/default/files/img/BLUEMARB.GIF" width="100%" height="14" align="BOTTOM"></h4>
 
   </div>
 
@@ -35,7 +67,11 @@
 
   
 
-  
+    <div>
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
 
   
 
@@ -43,7 +79,7 @@
     <a id="main-content" tabindex="-1"></a>
     <div class="layout-content">
         <div>
-    <div data-drupal-messages-fallback class="hidden"></div><div id="block-heh-content">
+    <div id="block-stark-child-content">
   
     
       <form class="taxonomy-overview-terms" data-drupal-selector="taxonomy-overview-terms" action="/admin/structure/taxonomy/manage/w_a_s_t_e_words/overview" method="post" id="taxonomy-overview-terms" accept-charset="UTF-8">
@@ -117,7 +153,7 @@
                       <td></td>
                   </tr>
               <tr data-drupal-selector="edit-terms-tid1070">
-                      <td><a href="/central" data-drupal-selector="edit-terms-tid1070-term" id="edit-terms-tid1070-term" hreflang="en">Central</a></td>
+                      <td><a href="/central.html" data-drupal-selector="edit-terms-tid1070-term" id="edit-terms-tid1070-term" hreflang="en">Central</a></td>
                       <td></td>
                   </tr>
               <tr data-drupal-selector="edit-terms-tid1800">
@@ -495,7 +531,7 @@
         </li>
           </ul>
   </nav>
-<input autocomplete="off" data-drupal-selector="form-ppctlxzfuehktlsupxvmmya8ba0xh98exu7jeipferm" type="hidden" name="form_build_id" value="form-ppCtLxZFUeHktLSupXvmMya8BA0XH98EXu7jEiPfERM" />
+<input autocomplete="off" data-drupal-selector="form-mtmk2vvk-fgcunxbf095zth7ruggb2orvnezrwxkvzu" type="hidden" name="form_build_id" value="form-MtMK2vvk-fgcunxbf095ZtH7RugGb2OrvneZRwxkvZU" />
 <input data-drupal-selector="edit-taxonomy-overview-terms" type="hidden" name="form_id" value="taxonomy_overview_terms" />
 
 </form>
@@ -509,10 +545,50 @@
     
   </main>
 
+      <footer role="contentinfo">
+        <div>
+    <div id="block-stark-child-local-actions">
+  
+    
+      
+  </div>
+
+  </div>
+
+    </footer>
   
 </div>
   </div>
 
     
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"admin\/structure\/taxonomy\/manage\/w_a_s_t_e_words\/overview","currentPathIsAdmin":true,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"user":{"uid":0,"permissionsHash":"edc0c8918f80badd740fa1caf383e3726b815d753a2d6cf0f175bb72ae34dabd"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.0"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.1.2"></script>
+<script src="/core/misc/drupal.js?v=10.1.2"></script>
+<script src="/core/misc/drupal.init.js?v=10.1.2"></script>
+<script src="/sites/default/files/asset_injector/js/nodes-1e4a563b7ddfd826d9a8de610ab44675.js?s2fyl9"></script>
+<script src="/sites/default/files/asset_injector/js/qr-7543b3560f7e140d6712b81e37f67169.js?s2fyl9"></script>
+<script src="/sites/default/files/asset_injector/js/qr0-4abd4074112590f0fb4e480db42f5728.js?s2fyl9"></script>
+<script src="/themes/custom/stark_child/theme?s2fyl9"></script>
+<script src="/core/misc/tableresponsive.js?v=10.1.2"></script>
+
+    <script src="/qtvr.quicktime.edenapple.com/sw/qtViewer.js"></script>
+
+<center>
+<a href="/HEHGeneral.html">Information</a> | <a href="/EventsCal.html">Calendar</a> | <a href="/HEHMember.html">Membership</a> | <a href="/organic-media.html">Organic Media</a> | <a href="/book/geometron.html">Book of Geometron</a>
+
+<p>&nbsp;</p>
+
+<hr width="80%"><h3><b><a href="/VRTour/Map.html"><img border="0" height="25" src="/sites/default/files/img/btn_new.jpg" width="100" loading="lazy"></a> See a<a href="/VRTour/Map.html"> Virtual Reality Tour</a> of The ReLeaf Gardens.</b></h3>
+<b> </b>
+
+<hr width="80%"><b> </b>
+
+<h5><b>1998©2023, ReLeaf. Please replicate.<br><br>
+ReLeaf Organic Media Collections and Botanical Gardens<br><br>
+releaf.marigold.town<br>
+Comments to: <a href="#"> bryceb@releaf.site</a></b></h5>
+</center>
   </body>
 </html>

@@ -19,7 +19,7 @@ function preload() {
 
 
 function setup() {
-  let myCanvas = createCanvas(350, 150);
+  let myCanvas = createCanvas(700, 300);
   myCanvas.parent('QTmov'); 
   xPan = (width - img.width * zoomLevel) / 2;
   yPan = (height - img.height * zoomLevel) / 2;
